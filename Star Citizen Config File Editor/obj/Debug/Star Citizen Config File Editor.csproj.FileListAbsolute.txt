@@ -1,0 +1,9 @@
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\bin\Debug\Star Citizen Config File Editor.exe
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\bin\Debug\Star Citizen Config File Editor.pdb
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star Citizen Config File Editor.csprojAssemblyReference.cache
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star_Citizen_Config_File_Editor.Main.resources
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star_Citizen_Config_File_Editor.Properties.Resources.resources
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star Citizen Config File Editor.csproj.GenerateResource.cache
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star Citizen Config File Editor.csproj.CoreCompileInputs.cache
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star Citizen Config File Editor.exe
+C:\Development\starcitizenconfigeditor\Star Citizen Config File Editor\obj\Debug\Star Citizen Config File Editor.pdb
